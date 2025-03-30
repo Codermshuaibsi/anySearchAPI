@@ -1,0 +1,24 @@
+{
+  "name": "image-database-api",
+  "version": "1.0.0",
+  "description": "This is a image search app database and api routes backend script files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Image",
+    "imagesearch",
+    "searching",
+    "api",
+    "api-routes"
+  ],
+  "author": "Mohd Shuaib",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
+  }
+}
